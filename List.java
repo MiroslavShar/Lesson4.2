@@ -7,7 +7,7 @@ public class List {
         HashSet<String> listHashSet = new HashSet<>();
         Map<String, Integer> hashMap = new HashMap<String, Integer>();
 
-        //Помещаем данный в карточку
+        //Помещаем данный в карточку1
         hashMap.put("Vaska", 0);
 
         //Получаем набор элементов
